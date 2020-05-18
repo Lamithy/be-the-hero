@@ -1,4 +1,4 @@
-<h1 align="center"><br><img src="frontend/src/assets/logo.svg" alt="Aircnc"><br><br>Aircnc - Be The Hero</h1>
+<h1 align="center"><br><img src="frontend/src/assets/logo.svg" alt="BeTheHero"><br><br> Be The Hero</h1>
 
 Projeto desenvolvido durante a semana OmniStack da Rocketseat. Aplicação para conectar ONGs e outras instituições a pessoas que tem disponibilidade para ajudar.
 ## Instalação
